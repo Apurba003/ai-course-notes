@@ -1,6 +1,6 @@
 # NotePilot AI
 
-Responsive MVP for turning a course transcript into timestamped study notes. It runs locally in the browser, accepts `.txt`, `.srt`, and `.vtt` files, and also accepts a video file as a lesson placeholder until a permitted transcript/caption source is available.
+Responsive MVP for turning a course transcript into timestamped study notes. It runs locally in the browser, accepts `.txt`, `.srt`, and `.vtt` files, plays a user-selected local video, and keeps notes synced to video timestamps. Notes, flashcards, and a glossary are generated without uploading the lesson.
 
 ## Run
 
